@@ -63,8 +63,6 @@ streamlit run app.py
 
 ## Contributing
 
-Your ideas, pull requests, bug reports = ❤️
-
 1. Fork → branch → build → open PR  
 2. Keep commits scoped (“Add Grad‑CAM” beats “fix stuff”)  
 3. Verify that `pip install -r requirements.txt` installs everything
@@ -75,7 +73,7 @@ Your ideas, pull requests, bug reports = ❤️
 
 - Inspired by classic CNN tutorials (e.g., Hackers Realm’s Dogs vs Cats video guide)  
 - Dataset courtesy of **Kaggle - Dogs vs Cats**  
-- Built with 💻 **TensorFlow/Keras** and **Streamlit**
+- Built with **TensorFlow/Keras** and **Streamlit**
 
 ---
 
