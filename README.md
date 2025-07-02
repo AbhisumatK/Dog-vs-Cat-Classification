@@ -64,7 +64,7 @@ streamlit run app.py
 ## Contributing
 
 1. Fork → branch → build → open PR  
-2. Keep commits scoped (“Add Grad‑CAM” beats “fix stuff”)  
+2. Keep commits scoped and well documented 
 3. Verify that `pip install -r requirements.txt` installs everything
 
 ---
