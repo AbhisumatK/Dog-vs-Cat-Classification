@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Try it out live here: [**Streamlit App**](https://abhisumat-dog-vs-cat-classification.streamlit.app/)
 
@@ -27,7 +27,7 @@ Kaggle Dataset used - https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat
 ## What It Does
 
 -  Classifies images as **Dog** or **Cat** with a custom CNN model.
--  Built into a slick Streamlit UI—just drag, drop, and get results.
+-  Built into a Streamlit UI—just drag, drop, and get results.
 
 ---
 
