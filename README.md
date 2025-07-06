@@ -8,10 +8,11 @@ Try it out live here: [**Streamlit App**](https://abhisumat-dog-vs-cat-classific
 
 ---
 
-## Demo Screenshot
+## Demo Screenshots
 
 ![Demo](demo.png)
 
+![Demo2](demo2.png)
 ---
 
 Kaggle Dataset used - https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
