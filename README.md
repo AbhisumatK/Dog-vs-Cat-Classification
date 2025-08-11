@@ -19,7 +19,7 @@ Kaggle Dataset used - https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat
 
 ---
 
-## Table of Contents
+## Table of Contents 
 
 1. [What It Does](#what-it-does)  
 2. [How It Works](#how-it-works)  
