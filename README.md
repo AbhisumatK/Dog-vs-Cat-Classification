@@ -2,7 +2,7 @@
  
 ---
 
-## Live Demo
+## Live Demo 
 
 Try it out live here: [**Streamlit App**](https://abhisumat-dog-vs-cat-classification.streamlit.app/)
 
