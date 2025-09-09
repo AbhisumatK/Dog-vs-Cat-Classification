@@ -18,7 +18,7 @@ Try it out live here: [**Streamlit App**](https://abhisumat-dog-vs-cat-classific
 Kaggle Dataset used - https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
 
 ---
-
+ 
 ## Table of Contents 
 
 1. [What It Does](#what-it-does)  
