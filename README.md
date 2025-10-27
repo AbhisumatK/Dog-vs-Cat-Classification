@@ -1,4 +1,4 @@
-# Dog vs Cat Classification
+# Dog vs Cat Classification 
 ---
 ## Live Demo 
 Try it out live here: 
